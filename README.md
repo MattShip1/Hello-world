@@ -39,7 +39,7 @@ Discussed all programming languages and tools used in this project. This could i
 - Where you got them
 - What is contained within the data files?
 - Datafile considerations
-- URL links to files -- example here: [#Powerball Lottery Winning Numbers since 2010](#https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+- URL links to files -- example here: [Powerball Lottery Winning Numbers since 2010](#https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
 
 
 
@@ -58,11 +58,11 @@ Hello_World/
 
 ## Additional Information
 
-here is where you can add links or talk about results or how you are using this information. This is your place to share more. For now, I'm going to add a few additional Markdown Options:
+Here is where you can add links or talk about results or how you are using this information. This is your place to share more. For now, I'm going to add a few additional Markdown Options:
 
 **Bold** text
-*Italics* text
-~Strikethrough~ text
-***Bold and Italics*** text
+  *Italics* text
+  ~Strikethrough~ text
+  ***Bold and Italics*** text
    
 
