@@ -1,2 +1,31 @@
 # Hello-world
-My first repository
+
+# My first repository
+This is a sample of a good README.md file that can be used when describing a project. You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program. Think of this as documentation.
+
+## Table of Contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN A PROGRAM](#How-to-run-program)
+- [ADDITIONAL INFORMATION](#Additional-Information)
+
+  
+
+## Project Title
+
+*Hello World Sample - My First Repositiory*
+
+
+
+## Description
+
+Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. this should explain in detail what you did in this project, what you accomplished, outcomes, results, so on. Make this a couple of paragraphs.
+
+
+
+## Tools Used
+
+Discussed all programming languages and tools used in this project. This could include Python, SQL, Excel, Power BI, Websites and more. 
