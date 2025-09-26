@@ -47,13 +47,6 @@ Discussed all programming languages and tools used in this project. This could i
 
 Explain how you would run the program and what files need to be available. 
 
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-
 
 
 ## Additional Information
